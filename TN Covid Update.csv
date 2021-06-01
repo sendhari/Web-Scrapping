@@ -1,0 +1,42 @@
+State,District,Total_Cases,New Cases,Total_Deaths,New_Deaths,Total_Recovered,Active_Cases
+TN,Unknown,2,2,0,0,2,0
+1,Airport Quarantine,74,0,0,0,0,74
+2,Ariyalur,355,0,0,0,9,346
+3,Chengalpattu,739,0,2,0,16,721
+4,Chennai,10072,0,63,0,26,9983
+5,Coimbatore,155,0,1,0,7,147
+6,Cuddalore,437,0,1,0,13,423
+7,Dharmapuri,11,0,0,0,4,7
+8,Dindigul,143,0,0,0,11,132
+9,Erode,72,0,0,0,5,67
+10,Kallakurichi,126,0,0,0,8,118
+11,Kancheepuram,277,0,0,0,17,260
+12,Kanyakumari,59,0,1,0,7,51
+13,Karur,86,0,0,0,6,80
+14,Krishnagiri,26,0,0,0,4,22
+15,Madurai,244,0,1,0,16,227
+16,Nagapattinam,58,0,0,0,7,51
+17,Namakkal,84,0,0,0,7,77
+18,Nilgiris,19,0,0,0,3,16
+19,Other State,2,0,1,0,0,1
+20,Perambalur,161,0,0,0,12,149
+21,Pudukkottai,24,0,0,0,4,20
+22,Railway Quarantine,5,0,0,0,0,5
+23,Ramanathapuram,67,0,1,0,9,57
+24,Ranipet,101,0,0,0,11,90
+25,Salem,60,0,0,0,8,52
+26,Sivaganga,33,0,0,0,5,28
+27,Tenkasi,100,0,0,0,17,83
+28,Thanjavur,92,0,0,0,15,77
+29,Theni,111,0,1,0,6,104
+30,Thiruvallur,743,0,7,0,23,713
+31,Thiruvarur,50,0,0,0,13,37
+32,Thoothukkudi,157,0,1,0,6,150
+33,Tiruchirappalli,79,0,0,0,8,71
+34,Tirunelveli,304,0,1,0,16,287
+35,Tirupathur,35,0,0,0,5,30
+36,Tiruppur,121,0,0,0,7,114
+37,Tiruvannamalai,193,0,0,0,8,185
+38,Vellore,51,0,0,0,10,41
+39,Viluppuram,354,0,0,0,16,338
+40,Virudhunagar,112,0,0,0,13,99
